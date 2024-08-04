@@ -1,10 +1,10 @@
 
 
-# CryptoVue
+# CryptoBucks
 
 ## Overview
 
-CryptoVue is a feature-rich cryptocurrency screener app built with React and Tailwind CSS. It provides real-time data on various cryptocurrencies, allowing users to monitor and analyze market trends effectively.
+CryptoBucks is a feature-rich cryptocurrency screener app built with React and Tailwind CSS. It provides real-time data on various cryptocurrencies, allowing users to monitor and analyze market trends effectively.
 
 ## Features
 
